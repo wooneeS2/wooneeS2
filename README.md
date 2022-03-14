@@ -2,7 +2,9 @@
 
 <h3 align='center'>Hello_World_🙋‍♀️</h3>
 <p align='center'>
-<img src="https://img.shields.io/badge/ABOUT ME(click!)-FFE5E5?style=for-the-badge?link=http://https://www.notion.so/woinnnnng/About-Me-ca97e34d2dbc42e68a3b7eaa4d1160cd"/>
+  <a href="https://www.notion.so/woinnnnng/About-Me-ca97e34d2dbc42e68a3b7eaa4d1160cd">
+<img src="https://img.shields.io/badge/ABOUT ME(click!)-FFE5E5?style=for-the-badge"/>
+  </a>
 <p align='center'>
   I'm front-end developer.
   </br>
